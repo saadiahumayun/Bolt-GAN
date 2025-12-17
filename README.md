@@ -241,7 +241,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Datasets used:
 - Energy Appliances: UCI Machine Learning Repository
