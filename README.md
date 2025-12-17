@@ -1,4 +1,3 @@
-# Bolt-GAN
 # Bolt-GAN: Multivariate Time Series Data Generator
 
 [![Paper](https://img.shields.io/badge/Paper-Under%20Review-orange)](.)
